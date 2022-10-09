@@ -1,0 +1,22 @@
+{
+  "name": "Arijit",
+  "version": "1.0.0",
+  "description": "Not a Normie Bot",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "ArijitTheDev",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.10.3",
+    "moment": "^2.29.3",
+    "mongoose": "^6.3.2",
+    "ms": "^2.1.3",
+    "wokcommands": "^1.5.3",
+    "dotenv": "^16.0.1",
+    "moment-timezone": "^0.5.37",
+    "@sapphire/discord.js-utilities": "^5.0.1"
+  }
+}
